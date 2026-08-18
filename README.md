@@ -43,7 +43,7 @@ so it is dropped before modeling.
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO LINK HERE>`
+https://github.com/2025DA04285/ml-assignment-2.git 
 
 Repository structure:
 ```
