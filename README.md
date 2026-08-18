@@ -10,7 +10,7 @@ interactive Streamlit web application.
 ## b. Dataset Description
 
 - **Name:** Telco Customer Churn
-- **Source:** Kaggle — https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+- **Source:** Kaggle — https://www.kaggle.com/code/farazrahman/telco-customer-churn-logisticregression
 - **Goal:** Study the behavior of telecom customers to identify which
   ones are most likely to stop using the service ("churn"), first through
   exploratory analysis and then through predictive classification models.
