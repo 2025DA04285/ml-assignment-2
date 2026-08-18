@@ -110,4 +110,4 @@ streamlit run app.py
 
 ## Live App Link
 
-`<PASTE YOUR STREAMLIT COMMUNITY CLOUD APP LINK HERE>`
+https://ml-assignment-2-6wwkt42gqtb2ukwcatamps.streamlit.app/
